@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041420464929",
+    "project_id": "thingdoms",
+    "storage_bucket": "thingdoms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041420464929:android:37a2ce0d61911215444460",
+        "android_client_info": {
+          "package_name": "com.themadbrogrammers.attendance_alchemist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANfoR4pFs4QIgTIGWJGDzTizEuNIFgd7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
